@@ -1,0 +1,18 @@
+# mern
+/last_mern/node_modules
+/last_mern/.env
+/last_mern/package-lock.json
+
+# laravel
+/last_laravel/node_modules
+/last_laravel/public/hot
+/last_laravel/public/storage
+/last_laravel/storage/*.key
+/last_laravel/vendor
+/last_laravel/.env
+/last_laravel/.env.backup
+/last_laravel/.phpunit.result.cache
+/last_laravel/Homestead.json
+/last_laravel/Homestead.yaml
+/last_laravel/npm-debug.log
+/last_laravel/yarn-error.log
